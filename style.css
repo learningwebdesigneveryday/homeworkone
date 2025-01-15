@@ -1,0 +1,43 @@
+/*css styling homewoork week one*/
+body {
+    font-family: verdana, times, arial, monospace; 
+    font-size: 125%;
+}
+header{
+    background-color: rosybrown;
+
+} 
+nav{
+    background-color: lightgray;
+}
+main{
+    backgground-color: lightslategray;
+}
+footer{
+    background-color: lightgray;
+    color:black;
+}
+li{
+    display: inline;
+    width: 60px;
+    height:60px;
+    text-align:center;
+    padding:20px 70px;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+    font-variant:small-caps;
+    color: rosybrown;
+    border: 4px solid darkgrey;
+    background-color: lightyellow;
+}
+p{
+    line-height:200%;
+}
+img{
+    width :150px;
+    height:200px;
+}
